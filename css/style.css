@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: red;
+  /*  padding-top: 100px;*/
+}
+.row {
+   text-align: center;
+   padding-top: 220px;
+   color: red;
+}
+body {
+    background-image: url(./images\ \(2\).jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    
+}
